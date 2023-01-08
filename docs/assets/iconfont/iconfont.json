@@ -1,0 +1,16 @@
+{
+  "id": "3855839",
+  "name": "myicon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "18170313",
+      "name": "心,心形,心脏,爱心,实心",
+      "font_class": "hear-full",
+      "unicode": "e99f",
+      "unicode_decimal": 59807
+    }
+  ]
+}
